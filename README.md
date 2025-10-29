@@ -222,9 +222,16 @@ Solutions cho các bài toán thuật toán, data structures, và competitive pr
 </div>
 
 ###
-
 <!-- Pacman contribution graph: đã đổi sang username của bạn.
      LƯU Ý: cần thiết lập GitHub Action tương ứng trong repo của bạn để render ảnh này. -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thantieu-coder/Thantieu-coder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thantieu-coder/Thantieu-coder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thantieu-coder/Thantieu-coder/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 ###
