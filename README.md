@@ -1,23 +1,23 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E5C07B&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Hoang+%7C+EurusDFIR;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E5C07B&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Nhan+%7C+thantieu;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ###
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EurusDFIR&style=for-the-badge&color=E5C07B&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Thantieucoder&style=for-the-badge&color=E5C07B&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ###
 
 <!-- About me: áp dụng info của bạn -->
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/EurusDFIR/ecommerce_Microservice">ecommerce-microservice</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/Thantieu-coder/nhan_python">nhan python</a></li>
   <li>🌱 I’m currently learning <strong>Spring Boot</strong></li>
-  <li>👯 I’m looking to collaborate on <a href="https://github.com/EurusDFIR/TaskRiser">TaskRiser</a></li>
-  <li>📫 How to reach me <strong>hoangslevan@gmail.com</strong></li>
+  <li>👯 I’m looking to collaborate on <a href="https://github.com/Thantieu-coder/tichdao">TaskRiser</a></li>
+  <li>📫 How to reach me <strong>nguyendongducbdg14@gmail.com</strong></li>
   <li>⚡ Fun fact <em>I think I am not funny</em></li>
 </ul>
 
@@ -36,13 +36,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🍔 [OrderFood](https://github.com/EurusDFIR/OrderFood)
+### 🍔 [ThanThien](https://github.com/nhan_python/ThanThien)
 
-[![](https://img.shields.io/github/stars/EurusDFIR/OrderFood?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/OrderFood/stargazers)
-[![](https://img.shields.io/github/forks/EurusDFIR/OrderFood?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/OrderFood/network)
-[![](https://img.shields.io/github/last-commit/EurusDFIR/OrderFood?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/OrderFood/commits)
+[![](https://img.shields.io/github/stars/nhan_python/ThanThien?style=flat&logo=github&color=yellow)](https://github.com/nhan_python/ThanThien/stargazers)
+[![](https://img.shields.io/github/forks/nhan_python/ThanThien?style=flat&logo=github&color=blue)](https://github.com/nhan_python/ThanThien/network)
+[![](https://img.shields.io/github/last-commit/nhan_python/ThanThien?style=flat&logo=github&color=orange)](https://github.com/nhan_python/commits)
 
-**Modern Food Ordering System**  
+**My name is ThanThien:**  
 Clean UI/UX with state management optimize, responsive design and flow smooth order.
 
 **Tech Stack:**  
@@ -50,18 +50,18 @@ Clean UI/UX with state management optimize, responsive design and flow smooth or
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<a href="https://github.com/EurusDFIR/OrderFood">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDFIR&repo=OrderFood&theme=dracula&hide_border=true" width="100%" />
+<a href="https://github.com/nhan_python/ThanThien">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhan_python&repo=ThanThien&theme=dracula&hide_border=true" width="100%" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [E-commerce Microservices](https://github.com/EurusDFIR/ecommerce_Microservice)
+### 🛒 [Co-De](https://github.com/nhan_python/ecommerce_Microservice)
 
-[![](https://img.shields.io/github/stars/EurusDFIR/ecommerce_Microservice?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/ecommerce_Microservice/stargazers)
-[![](https://img.shields.io/github/forks/EurusDFIR/ecommerce_Microservice?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/ecommerce_Microservice/network)
-[![](https://img.shields.io/github/last-commit/EurusDFIR/ecommerce_Microservice?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/ecommerce_Microservice/commits)
+[![](https://img.shields.io/github/stars/nhan_python/ecommerce_Microservice?style=flat&logo=github&color=yellow)](https://github.com/nhan_python/ecommerce_Microservice/stargazers)
+[![](https://img.shields.io/github/forks/nhan_python/ecommerce_Microservice?style=flat&logo=github&color=blue)](https://github.com/nhan_python/ecommerce_Microservice/network)
+[![](https://img.shields.io/github/last-commit/nhan_python/ecommerce_Microservice?style=flat&logo=github&color=orange)](https://github.com/nhan_python/ecommerce_Microservice/commits)
 
 **Cloud-native Microservices on GCP**  
 Gateway + product/user services, CI/CD → **GKE**, container orchestration, và **PostgreSQL**.
@@ -86,9 +86,9 @@ Gateway + product/user services, CI/CD → **GKE**, container orchestration, và
 <tr>
 <td width="50%" valign="top">
 
-### 📱 [Android Dev Java](https://github.com/EurusDFIR/Android_dev_Java)
+### 📱 [Iphone](https://github.com/nhan_python/Iphone)
 
-[![](https://img.shields.io/github/stars/EurusDFIR/Android_dev_Java?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/Android_dev_Java/stargazers)
+[![](https://img.shields.io/github/stars/nhan_python/Android_dev_Java?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/Android_dev_Java/stargazers)
 [![](https://img.shields.io/github/forks/EurusDFIR/Android_dev_Java?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/Android_dev_Java/network)
 [![](https://img.shields.io/github/last-commit/EurusDFIR/Android_dev_Java?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/Android_dev_Java/commits)
 
@@ -225,11 +225,7 @@ Solutions cho các bài toán thuật toán, data structures, và competitive pr
 
 <!-- Pacman contribution graph: đã đổi sang username của bạn.
      LƯU Ý: cần thiết lập GitHub Action tương ứng trong repo của bạn để render ảnh này. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EurusDFIR/EurusDFIR/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EurusDFIR/EurusDFIR/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EurusDFIR/EurusDFIR/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
